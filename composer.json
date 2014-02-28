@@ -1,0 +1,20 @@
+{
+    "name": "hskrasek/eloquent-softdelete-cascader",
+    "description": "",
+    "authors": [
+        {
+            "name": "Hunter Skrasek",
+            "email": "hunterskrasek@me.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Hskrasek\\EloquentSoftdeleteCascader": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
